@@ -1,2 +1,2 @@
 # pipboy.app
-this code helps replicate the pipboy add used in fallout 4 game in a web format 
+this code helps replicate the pipboy app used in fallout 4 game in a web format 
